@@ -52,4 +52,4 @@ Contribuições são bem-vindas! Se você deseja melhorar o projeto, sinta-se à
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ##
-Feito com ❤️ por [Alysson Zanchi](https://github.com/alyssonzanchi).
+Feito com ❤️ por [Alysson Zanchi](https://www.linkedin.com/in/alyssonzanchi/).
