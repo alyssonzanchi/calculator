@@ -6,6 +6,8 @@ Este é um projeto de uma calculadora simples desenvolvida em Flutter. O objetiv
 
 A calculadora possui uma interface de usuário minimalista com botões para operações básicas, como adição, subtração, multiplicação, divisão, porcentagem, e um botão de reset (`AC`). O aplicativo é responsivo e funciona tanto em dispositivos Android quanto iOS.
 
+![Calculadora Flutter](screenshot_1.png)
+
 ## Funcionalidades
 
 - **Operações básicas**: Adição, subtração, multiplicação, divisão.
